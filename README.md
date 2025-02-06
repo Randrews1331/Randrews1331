@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Ryan Andrews  
+#  Ryan Andrews  
 **Software Engineering Student | Full-Stack Developer**  
 
 💡 *"Passionate about creating impactful software solutions and crafting seamless user experiences."*  
